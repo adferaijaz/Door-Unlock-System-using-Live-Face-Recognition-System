@@ -1,5 +1,6 @@
 # Live-Face-Detection-cum-Recognition-based-Access-Management-System
 1. METHOD/APPROACH
+
 1.1. Overall Description
 Although Face Recognition Systems are known for decades, there are many well active research works on the topic. These can be divided into two main parts; face detection and recognition of the detected face. So during our research we have found many areas that related to face recognition system; such as processes approaches and algorithms that used in developing of those systems. In developing this feature we will be using the data model diagram to show these processes and stages. This data model diagram will help us in making decision that will give us a good idea to the development stages like locating face in a form of color image, also will help us in retrieval of information as well as storing the record for further usage in time.
 1.2. Product Perspective
